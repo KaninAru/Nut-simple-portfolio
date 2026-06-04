@@ -9,9 +9,9 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 - **Typography:** JetBrains Mono font.
 
 ## Structure
-- `index.html`: Main page structure.
-- `style.css`: Styling for both light and dark themes.
-- `script.js`: Theme switching functionality.
+- `docs/index.html`: Main page structure.
+- `docs/style.css`: Styling for both light and dark themes.
+- `docs/script.js`: Theme switching functionality.
 
 ## Deployment
-This project is set up for GitHub Pages. Ensure the `master` branch is selected in the repository **Settings > Pages** tab.
+This project is set up for GitHub Pages. Ensure the `master` branch is selected and the folder is set to `/docs` in the repository **Settings > Pages** tab.
